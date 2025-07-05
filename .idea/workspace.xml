@@ -1,0 +1,564 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="hellossm:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8033210d-c341-4f39-a328-95fe94016f00" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.en.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_ssm.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/ppdxzz/controller/AdminController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/xxh/controller/AdminController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/ppdxzz/controller/BasicController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/xxh/controller/BasicController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/ppdxzz/controller/DormController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/xxh/controller/DormController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/ppdxzz/controller/LoginInterceptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/xxh/controller/LoginInterceptor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/ppdxzz/controller/StudentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/xxh/controller/StudentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/ppdxzz/controller/VisitorController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/xxh/controller/VisitorController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/ppdxzz/dao/AdminDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/xxh/dao/AdminDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/ppdxzz/dao/DormDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/xxh/dao/DormDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/ppdxzz/dao/StudentDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/xxh/dao/StudentDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/ppdxzz/dao/VisitorDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/xxh/dao/VisitorDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/ppdxzz/domain/Admin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/xxh/pojo/Admin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/ppdxzz/domain/Dorm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/xxh/pojo/Dorm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/ppdxzz/domain/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/xxh/pojo/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/ppdxzz/domain/Visitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/xxh/pojo/Visitor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/ppdxzz/poi/WriteExcel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/xxh/poi/WriteExcel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/ppdxzz/service/AdminService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/xxh/service/AdminService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/ppdxzz/service/DormService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/xxh/service/DormService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/ppdxzz/service/StudentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/xxh/service/StudentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/ppdxzz/service/VisitorService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/xxh/service/VisitorService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/ppdxzz/service/impl/AdminServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/xxh/service/impl/AdminServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/ppdxzz/service/impl/DormServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/xxh/service/impl/DormServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/ppdxzz/service/impl/StudentServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/xxh/service/impl/StudentServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/ppdxzz/service/impl/VisitorServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/xxh/service/impl/VisitorServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/ppdxzz/utils/MD5Util.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/xxh/utils/MD5Util.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/db.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/db.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-mvc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/spring-mvc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/admin-add.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/admin-add.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/admin-edit.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/admin-edit.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/admin-list.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/admin-list.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/dorm-add.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/dorm-add.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/dorm-edit.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/dorm-edit.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/dorm-list.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/dorm-list.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/dormStudent-add.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/dormStudent-add.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/dormStudentsInfo.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/dormStudentsInfo.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/dormsTeacherInfo.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/dormsTeacherInfo.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/login.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/look-dorm.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/look-dorm.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/main.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/main.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/regist_visitor.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/regist_visitor.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/student-add.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/student-add.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/student-edit.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/student-edit.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/student-list.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/student-list.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/studentsTeacher.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/studentsTeacher.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/visitor-list.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/visitor-list.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/visitor-log.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/visitor-log.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/visitor-success.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/visitor-success.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/welcome.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/welcome.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/css/AdminLTE.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/css/AdminLTE.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/error.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/error.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/layui_exts/excel.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/layui_exts/excel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/lib/layui/lay/modules/table.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/lib/layui/lay/modules/table.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/lib/layui/layui.all.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/lib/layui/layui.all.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/ppdxzz/controller/AdminController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/ppdxzz/controller/BasicController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/ppdxzz/controller/DormController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/ppdxzz/controller/LoginInterceptor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/ppdxzz/controller/StudentController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/ppdxzz/controller/VisitorController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/ppdxzz/dao/AdminDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/ppdxzz/dao/DormDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/ppdxzz/dao/StudentDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/ppdxzz/dao/VisitorDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/ppdxzz/domain/Admin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/ppdxzz/domain/Dorm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/ppdxzz/domain/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/ppdxzz/domain/Visitor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/ppdxzz/poi/WriteExcel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/ppdxzz/service/AdminService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/ppdxzz/service/DormService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/ppdxzz/service/StudentService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/ppdxzz/service/VisitorService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/ppdxzz/service/impl/AdminServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/ppdxzz/service/impl/DormServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/ppdxzz/service/impl/StudentServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/ppdxzz/service/impl/VisitorServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/ppdxzz/utils/MD5Util.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/db.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/db.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring-mvc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/spring-mvc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hellossm/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/target/hellossm/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hellossm/WEB-INF/classes/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/hellossm/WEB-INF/classes/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hellossm/WEB-INF/classes/cn/ppdxzz/controller/AdminController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hellossm/WEB-INF/classes/cn/ppdxzz/controller/BasicController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hellossm/WEB-INF/classes/cn/ppdxzz/controller/DormController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hellossm/WEB-INF/classes/cn/ppdxzz/controller/LoginInterceptor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hellossm/WEB-INF/classes/cn/ppdxzz/controller/StudentController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hellossm/WEB-INF/classes/cn/ppdxzz/controller/VisitorController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hellossm/WEB-INF/classes/cn/ppdxzz/dao/AdminDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hellossm/WEB-INF/classes/cn/ppdxzz/dao/DormDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hellossm/WEB-INF/classes/cn/ppdxzz/dao/StudentDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hellossm/WEB-INF/classes/cn/ppdxzz/dao/VisitorDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hellossm/WEB-INF/classes/cn/ppdxzz/domain/Admin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hellossm/WEB-INF/classes/cn/ppdxzz/domain/Dorm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hellossm/WEB-INF/classes/cn/ppdxzz/domain/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hellossm/WEB-INF/classes/cn/ppdxzz/domain/Visitor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hellossm/WEB-INF/classes/cn/ppdxzz/poi/WriteExcel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hellossm/WEB-INF/classes/cn/ppdxzz/service/AdminService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hellossm/WEB-INF/classes/cn/ppdxzz/service/DormService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hellossm/WEB-INF/classes/cn/ppdxzz/service/StudentService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hellossm/WEB-INF/classes/cn/ppdxzz/service/VisitorService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hellossm/WEB-INF/classes/cn/ppdxzz/service/impl/AdminServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hellossm/WEB-INF/classes/cn/ppdxzz/service/impl/DormServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hellossm/WEB-INF/classes/cn/ppdxzz/service/impl/StudentServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hellossm/WEB-INF/classes/cn/ppdxzz/service/impl/VisitorServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hellossm/WEB-INF/classes/cn/ppdxzz/utils/MD5Util.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hellossm/WEB-INF/classes/db.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/hellossm/WEB-INF/classes/db.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hellossm/WEB-INF/classes/spring-mvc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/hellossm/WEB-INF/classes/spring-mvc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hellossm/WEB-INF/jsp/admin-add.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/hellossm/WEB-INF/jsp/admin-add.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hellossm/WEB-INF/jsp/admin-edit.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/hellossm/WEB-INF/jsp/admin-edit.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hellossm/WEB-INF/jsp/admin-list.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/hellossm/WEB-INF/jsp/admin-list.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hellossm/WEB-INF/jsp/dorm-add.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/hellossm/WEB-INF/jsp/dorm-add.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hellossm/WEB-INF/jsp/dorm-edit.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/hellossm/WEB-INF/jsp/dorm-edit.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hellossm/WEB-INF/jsp/dorm-list.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/hellossm/WEB-INF/jsp/dorm-list.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hellossm/WEB-INF/jsp/dormStudent-add.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/hellossm/WEB-INF/jsp/dormStudent-add.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hellossm/WEB-INF/jsp/dormStudentsInfo.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/hellossm/WEB-INF/jsp/dormStudentsInfo.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hellossm/WEB-INF/jsp/dormsTeacherInfo.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/hellossm/WEB-INF/jsp/dormsTeacherInfo.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hellossm/WEB-INF/jsp/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/hellossm/WEB-INF/jsp/login.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hellossm/WEB-INF/jsp/look-dorm.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/hellossm/WEB-INF/jsp/look-dorm.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hellossm/WEB-INF/jsp/main.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/hellossm/WEB-INF/jsp/main.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hellossm/WEB-INF/jsp/regist_visitor.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/hellossm/WEB-INF/jsp/regist_visitor.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hellossm/WEB-INF/jsp/student-add.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/hellossm/WEB-INF/jsp/student-add.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hellossm/WEB-INF/jsp/student-edit.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/hellossm/WEB-INF/jsp/student-edit.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hellossm/WEB-INF/jsp/student-list.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/hellossm/WEB-INF/jsp/student-list.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hellossm/WEB-INF/jsp/studentsTeacher.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/hellossm/WEB-INF/jsp/studentsTeacher.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hellossm/WEB-INF/jsp/visitor-list.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/hellossm/WEB-INF/jsp/visitor-list.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hellossm/WEB-INF/jsp/visitor-log.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/hellossm/WEB-INF/jsp/visitor-log.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hellossm/WEB-INF/jsp/visitor-success.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/hellossm/WEB-INF/jsp/visitor-success.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hellossm/WEB-INF/jsp/welcome.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/hellossm/WEB-INF/jsp/welcome.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hellossm/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/hellossm/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hellossm/css/AdminLTE.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/hellossm/css/AdminLTE.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hellossm/error.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/hellossm/error.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hellossm/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/hellossm/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hellossm/layui_exts/excel.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/hellossm/layui_exts/excel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hellossm/lib/layui/lay/modules/table.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/hellossm/lib/layui/lay/modules/table.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hellossm/lib/layui/layui.all.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/hellossm/lib/layui/layui.all.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/宿管系统（SSM框架）.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Interface" />
+        <option value="Jsp File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="customMavenHome" value="$PROJECT_DIR$/../../../../maven/apache-maven-3.6.3" />
+        <option name="localRepository" value="D:\maven\apache-maven-3.6.3\repository" />
+        <option name="mavenHomeTypeForPersistence" value="CUSTOM" />
+        <option name="userSettingsFile" value="D:\maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="17" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="17" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="1XayOqtVZsv2AagE870mVEbglRy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;Tomcat Server.Tomcat 9.0.24.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_directory_selection&quot;: &quot;D:/毕业设计测试项目/javaee/sushe/hellossm/src/main/java/cn/ppdxzz/dao&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/毕业设计测试项目/javaee/sushe/hellossm&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.34278002&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\毕业设计测试项目\javaee\sushe\hellossm\src\main\webapp\WEB-INF" />
+      <recent name="D:\Development tools\IDEA\IntelliJ IDEA 2019.2.4\hellossm\src\main\webapp\css" />
+      <recent name="D:\Development tools\IDEA\IntelliJ IDEA 2019.2.4\hellossm\src\main\webapp\js" />
+      <recent name="D:\Development tools\IDEA\IntelliJ IDEA 2019.2.4\hellossm\src\main\webapp\images" />
+      <recent name="D:\Development tools\IDEA\IntelliJ IDEA 2019.2.4\hellossm\src\main\webapp" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\毕业设计测试项目\javaee\sushe\hellossm\src\main\webapp\images" />
+      <recent name="D:\毕业设计测试项目\javaee\sushe\hellossm\src" />
+      <recent name="D:\Development tools\IDEA\IntelliJ IDEA 2019.2.4\hellossm\src\main\webapp" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat 9.0.24">
+    <configuration name="LocalIp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.ppdxzz.utils.LocalIp" />
+      <module name="hellossm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.xxh.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MD5Util" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.xxh.utils.MD5Util" />
+      <module name="hellossm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.xxh.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WriteExcel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.xxh.poi.WriteExcel" />
+      <module name="hellossm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.xxh.poi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="hellossm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="hellossm" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 9.0.24" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.24" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="17" nameIsGenerated="true">
+      <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
+      <option name="COMMON_VM_ARGUMENTS" value="-Dfile.encoding=UTF-8" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="hellossm:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/hellossm_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_hellossm_2" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="52166" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="hellossm:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.LocalIp" />
+      <item itemvalue="Application.MD5Util" />
+      <item itemvalue="Application.WriteExcel" />
+      <item itemvalue="Tomcat Server.Tomcat 9.0.24" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LocalIp" />
+        <item itemvalue="Application.WriteExcel" />
+        <item itemvalue="Application.MD5Util" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.20910494" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Running" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.20224.419" />
+        <option value="bundled-js-predefined-d6986cc7102b-410509235cf1-JavaScript-IU-242.20224.419" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8033210d-c341-4f39-a328-95fe94016f00" name="Default Changelist" comment="" />
+      <created>1581298470446</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581298470446</updated>
+      <workItem from="1581298472665" duration="5140000" />
+      <workItem from="1581303639901" duration="10827000" />
+      <workItem from="1581317062875" duration="9815000" />
+      <workItem from="1581327183464" duration="8314000" />
+      <workItem from="1581336970995" duration="6221000" />
+      <workItem from="1581385372747" duration="13586000" />
+      <workItem from="1581399313516" duration="24835000" />
+      <workItem from="1581425257186" duration="1352000" />
+      <workItem from="1581427756376" duration="6987000" />
+      <workItem from="1581473460926" duration="20626000" />
+      <workItem from="1581508659638" duration="9245000" />
+      <workItem from="1581573066874" duration="317000" />
+      <workItem from="1581573464530" duration="26409000" />
+      <workItem from="1581649259154" duration="10514000" />
+      <workItem from="1581662911720" duration="23085000" />
+      <workItem from="1581731575582" duration="47721000" />
+      <workItem from="1581814839916" duration="4082000" />
+      <workItem from="1581820499500" duration="20191000" />
+      <workItem from="1581913917133" duration="32750000" />
+      <workItem from="1581985281715" duration="3589000" />
+      <workItem from="1581989660185" duration="1250000" />
+      <workItem from="1582001026668" duration="32026000" />
+      <workItem from="1582077952665" duration="5952000" />
+      <workItem from="1582093960673" duration="5496000" />
+      <workItem from="1582099866858" duration="20535000" />
+      <workItem from="1582160800313" duration="3118000" />
+      <workItem from="1582163957936" duration="3456000" />
+      <workItem from="1582178854250" duration="20605000" />
+      <workItem from="1582252359056" duration="41760000" />
+      <workItem from="1582339247647" duration="7825000" />
+      <workItem from="1743330347789" duration="1525000" />
+      <workItem from="1743332461888" duration="4133000" />
+      <workItem from="1743603465192" duration="249000" />
+      <workItem from="1743775064360" duration="6601000" />
+      <workItem from="1743813684508" duration="5698000" />
+      <workItem from="1743833535881" duration="2371000" />
+      <workItem from="1743848135984" duration="2000" />
+      <workItem from="1744262287382" duration="41000" />
+      <workItem from="1744418235338" duration="1731000" />
+      <workItem from="1744420010787" duration="2606000" />
+      <workItem from="1744436576628" duration="27909000" />
+      <workItem from="1744506228540" duration="13262000" />
+      <workItem from="1744523382631" duration="2437000" />
+      <workItem from="1744532652693" duration="8095000" />
+      <workItem from="1744546365759" duration="262000" />
+      <workItem from="1744546898460" duration="2000" />
+      <workItem from="1744546913605" duration="6000" />
+      <workItem from="1744554343776" duration="2893000" />
+      <workItem from="1744597941247" duration="824000" />
+      <workItem from="1744866360415" duration="49000" />
+      <workItem from="1745039069010" duration="5143000" />
+      <workItem from="1745302973196" duration="3875000" />
+      <workItem from="1745675638695" duration="2130000" />
+      <workItem from="1746017821141" duration="631000" />
+      <workItem from="1746199521846" duration="293000" />
+      <workItem from="1746454682426" duration="330000" />
+      <workItem from="1746500015362" duration="153000" />
+      <workItem from="1746861922768" duration="3275000" />
+      <workItem from="1746880329508" duration="448000" />
+      <workItem from="1746880788738" duration="1080000" />
+      <workItem from="1746881892419" duration="2331000" />
+      <workItem from="1746884488679" duration="105000" />
+      <workItem from="1746942090623" duration="345000" />
+      <workItem from="1746942958146" duration="472000" />
+      <workItem from="1746945294678" duration="73000" />
+      <workItem from="1747395286625" duration="663000" />
+      <workItem from="1747574886371" duration="2017000" />
+      <workItem from="1747639642560" duration="42000" />
+      <workItem from="1748408211640" duration="113000" />
+      <workItem from="1749020371835" duration="63000" />
+      <workItem from="1749101544555" duration="89000" />
+      <workItem from="1749391995799" duration="608000" />
+      <workItem from="1749707826649" duration="36000" />
+      <workItem from="1750005747286" duration="86000" />
+      <workItem from="1750177311743" duration="115000" />
+      <workItem from="1750258167069" duration="744000" />
+      <workItem from="1750309338180" duration="3275000" />
+      <workItem from="1750316722411" duration="709000" />
+      <workItem from="1750337198569" duration="2485000" />
+      <workItem from="1750350394984" duration="2444000" />
+      <workItem from="1750462402075" duration="4803000" />
+      <workItem from="1750476555238" duration="14328000" />
+      <workItem from="1750570275539" duration="6624000" />
+      <workItem from="1750579679841" duration="1265000" />
+      <workItem from="1750647452029" duration="6589000" />
+      <workItem from="1750771919297" duration="8632000" />
+      <workItem from="1750809569876" duration="7396000" />
+      <workItem from="1750828264202" duration="4357000" />
+      <workItem from="1750859449488" duration="3969000" />
+      <workItem from="1750913137924" duration="9629000" />
+      <workItem from="1751096423711" duration="1034000" />
+      <workItem from="1751259116777" duration="8521000" />
+      <workItem from="1751346723639" duration="2327000" />
+      <workItem from="1751675463283" duration="861000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/main.jsp</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/cn/xxh/controller/AdminController.java</url>
+          <line>181</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
